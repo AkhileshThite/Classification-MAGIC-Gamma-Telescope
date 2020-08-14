@@ -66,7 +66,7 @@ y_pred = classifier.predict(X_test)
 from sklearn.metrics import confusion_matrix, accuracy_score
 cm = confusion_matrix(y_test, y_pred)
 print(cm)
-accuracy_score(y_test, y_pred)
+print("Accuracy: {:.2f}%".format(accuracy_score(y_test, y_pred)*100))
 
 """## Visualising predictions"""
 
@@ -104,4 +104,5 @@ plt.grid(True)
 """## ROC curve accuracy"""
 
 from sklearn.metrics import roc_auc_score
-roc_auc_score(y_test,y_pred_prob_yes[:,1])
+print("Accuracy: {:.2f}%".format(roc_auc_score(y_test,y_pred_prob_yes[:,1])*100))
+
