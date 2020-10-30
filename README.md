@@ -6,7 +6,6 @@
 • I tested all the classification algorithms and finally got the best results with **99.98%** accuracy by using **"Random Forest Classification"**. And then distinguished gamma rays (signal) from hadronic showers (background) for the further studies.
 
 Attribute Information:
-
 1. fLength: continuous # major axis of ellipse [mm] 
 2. fWidth: continuous # minor axis of ellipse [mm] 
 3. fSize: continuous # 10-log of sum of content of all pixels [in #phot] 
@@ -20,7 +19,6 @@ Attribute Information:
 11. class: g,h # gamma (signal), hadron (background) 
 
 g = gamma (signal): 12332 
-
 h = hadron (background): 6688 
 
 • Dataset source- https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
