@@ -5,7 +5,7 @@
 
 • I tested all the classification algorithms and finally got the best results with **99.98%** accuracy by using **"Random Forest Classification"**. And then distinguished gamma rays (signal) from hadronic showers (background) for the further studies.
 
-Attribute Information:
+## Attribute Information:
 1. fLength: continuous # major axis of ellipse [mm] 
 2. fWidth: continuous # minor axis of ellipse [mm] 
 3. fSize: continuous # 10-log of sum of content of all pixels [in #phot] 
