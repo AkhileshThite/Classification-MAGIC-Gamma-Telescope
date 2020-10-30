@@ -18,7 +18,7 @@ Attribute Information:
 10. fDist: continuous # distance from origin to center of ellipse [mm] 
 11. class: g,h # gamma (signal), hadron (background) 
 
-g = gamma (signal): 12332 
+g = gamma (signal): 12332
 h = hadron (background): 6688 
 
 • Dataset source- https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
