@@ -1,5 +1,5 @@
 # Classification: MAGIC Gamma Telescope
-![](/imgs/main.jpg)
+![](imgs/main.jpg)
 
 • It is used to find the "cosmic source" by registration of high energy gamma particles in a ground-based atmospheric Cherenkov gamma telescope using imaging technique.
 
